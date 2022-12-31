@@ -1,0 +1,12 @@
+
+gphp:S116"SRename this field "$max_usage" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆÀäµ
+fphp:S116#"RRename this field "$is_valid" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(«ÛÓ¶
+hphp:S116&"TRename this field "$created_at" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ã¾“ý
+nphp:S116*"URename this field "$coupon_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›ç‘Àûÿÿÿÿ
+kphp:S117f"WRename this parameter "$max_usage" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(…ÊÐá
+jphp:S117~"VRename this parameter "$is_valid" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘ê®Ù
+mphp:S117Š"XRename this parameter "$created_at" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀÎÑÛ
+nphp:S117–"YRename this parameter "$coupon_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†Ñºñ
+w	php:S1448"bClass "Coupon" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(¶¬áë
+J	php:S1066³"/Merge this if statement with the enclosing one.(ýžÐ•ûÿÿÿÿ
+E	php:S1066Ñ"/Merge this if statement with the enclosing one.(´ã˜û

@@ -1,0 +1,5 @@
+
+ophp:S1160"TRename this field "$created_at" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ã¾“ı8ÈÙöìÕ0
+tphp:S117Á"XRename this parameter "$created_at" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀÎÑÛ8ÉÙöìÕ0
+	php:S1448"`Class "User" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(¦Ãÿ¿øÿÿÿÿ8ÉÙöìÕ0
+Q	php:S1066Ş"/Merge this if statement with the enclosing one.(Ë“Ï’ÿÿÿÿÿ8ÉÙöìÕ0
